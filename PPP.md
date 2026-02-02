@@ -1,1 +1,10 @@
+## Problem Domain
+- I live in and manage a public living space where people are free to come and go. People will often leave trash lying around, forcing residents to clean up after them.
+
+## Proposed Solution
+- Set up a monitoring system that keeps track of who comes and goes through the living space and keep track of what they are bringing and leaving in the living space.
+
+## Architecture
+- ESP32 micro controller
+- Input/Monitoring Device
 
