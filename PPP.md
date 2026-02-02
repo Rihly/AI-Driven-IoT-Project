@@ -6,5 +6,6 @@
 
 ## Architecture
 - ESP32 micro controller
+- Raspberry Pie for handling AI-driven software
 - Input/Monitoring Device
 
