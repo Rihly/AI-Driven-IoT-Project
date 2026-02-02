@@ -19,14 +19,10 @@
 ## Schedule and Milestones
 
 ### Sprint 1
-- Set up repository
-- Prepare for PPP
-
-### Sprint 2
 - Gather resources and compomnents required for project
 - Set up an environment/workspace and start working on the software
 
-### Sprint 3
+### Sprint 2
 - Additional Work on the software
 - Set up an AI model for facial recognition/object recognition
 - Interface each component of the system
