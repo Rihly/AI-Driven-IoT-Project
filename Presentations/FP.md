@@ -2,36 +2,36 @@
 
 ---
 
-### Summary
+## Summary
 
 ---
 
-### Problem Domain
+## Problem Domain
 
 ---
 
-### Solution Domain
+## Solution Domain
 
 ---
 
-### Technology Stack
+## Technology Stack
 
 ---
 
-### Project Structure
+## Project Structure
 
 ---
 
-### Schedule
+## Schedule
 
 ---
 
-### Learning with AI Topic 1
+## Learning with AI Topic 1
 
 ---
 
-### Learning with AI Topic 2
+## Learning with AI Topic 2
 
 ---
 
-### Questions?
+## Questions?
