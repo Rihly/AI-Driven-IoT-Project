@@ -54,4 +54,6 @@ Week 11 - Set up computer vision model
 - Long distance communication
 - More robust/sofisticated monitoring capabilities
 
+---
+
 ## Questions?
