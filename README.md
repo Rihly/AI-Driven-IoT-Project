@@ -26,12 +26,6 @@ My individual repository for my AI driven IoT Project
 
 ---
 
-## Sprint 2
-- Full camera and computer vision implementation
-- Data transfer, sending video files to client program
-
----
-
 ## Rough Schedule
 Week 3 - Aquire Raspberry Pi
 Week 7 - Successfully interface different components across WiFi
@@ -54,7 +48,3 @@ Week 11 - Set up computer vision model
 ## Future?
 - Long distance communication
 - More robust/sofisticated monitoring capabilities
-
----
-
-## Questions?
